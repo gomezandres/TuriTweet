@@ -1,0 +1,21 @@
+INSTRUCCIONES
+
+1 - Crear la base de datos en: http://localhost:5432/tweets.
+Sistema de gestión de bases de datos PostgreSQL 8.4 v8.4.
+El backup restaurarlo de ../Base de Datos/tweets.backup.
+
+2 - Abrir el archivo: ../TuriTweet.jar.
+Debe tenerse instalado la tecnología Java para su correcta ejecución.
+
+3 - Una vez ejecutado, seguir los pasos del el video tutorial.
+
+4 - El codigo fuente del prototipo se encuentra en ../ TuriTweet - Código fuente.
+Se recomienda abrirlo con el entorno de desarrollo NetBeans 7.1.
+-----------------------------------------------------------------------------------------------------------------
+Tesis de Grado
+Autores: Candia Esteban, Gomez Andres
+
+
+
+
+
